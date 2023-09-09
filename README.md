@@ -1,4 +1,4 @@
-# Bike-rental-prediction-using-Machine-Learning
+# Bike-rental-prediction-using-Machine-Learning using H2o Package
 
 ### Introduction:
 
